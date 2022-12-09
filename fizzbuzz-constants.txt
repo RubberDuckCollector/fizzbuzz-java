@@ -1,0 +1,100 @@
+1 - no multiples here :(
+2 - no multiples here :(
+Fizz
+4 - no multiples here :(
+Buzz
+Fizz
+7 - no multiples here :(
+8 - no multiples here :(
+Fizz
+Buzz
+11 - no multiples here :(
+Fizz
+13 - no multiples here :(
+14 - no multiples here :(
+FizzBuzz
+16 - no multiples here :(
+17 - no multiples here :(
+Fizz
+19 - no multiples here :(
+Buzz
+Fizz
+22 - no multiples here :(
+23 - no multiples here :(
+Fizz
+Buzz
+26 - no multiples here :(
+Fizz
+28 - no multiples here :(
+29 - no multiples here :(
+FizzBuzz
+31 - no multiples here :(
+32 - no multiples here :(
+Fizz
+34 - no multiples here :(
+Buzz
+Fizz
+37 - no multiples here :(
+38 - no multiples here :(
+Fizz
+Buzz
+41 - no multiples here :(
+Fizz
+43 - no multiples here :(
+44 - no multiples here :(
+FizzBuzz
+46 - no multiples here :(
+47 - no multiples here :(
+Fizz
+49 - no multiples here :(
+Buzz
+Fizz
+52 - no multiples here :(
+53 - no multiples here :(
+Fizz
+Buzz
+56 - no multiples here :(
+Fizz
+58 - no multiples here :(
+59 - no multiples here :(
+FizzBuzz
+61 - no multiples here :(
+62 - no multiples here :(
+Fizz
+64 - no multiples here :(
+Buzz
+Fizz
+67 - no multiples here :(
+68 - no multiples here :(
+Fizz
+Buzz
+71 - no multiples here :(
+Fizz
+73 - no multiples here :(
+74 - no multiples here :(
+FizzBuzz
+76 - no multiples here :(
+77 - no multiples here :(
+Fizz
+79 - no multiples here :(
+Buzz
+Fizz
+82 - no multiples here :(
+83 - no multiples here :(
+Fizz
+Buzz
+86 - no multiples here :(
+Fizz
+88 - no multiples here :(
+89 - no multiples here :(
+FizzBuzz
+91 - no multiples here :(
+92 - no multiples here :(
+Fizz
+94 - no multiples here :(
+Buzz
+Fizz
+97 - no multiples here :(
+98 - no multiples here :(
+Fizz
+Buzz

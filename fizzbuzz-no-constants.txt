@@ -1,0 +1,100 @@
+1: 1 - no multiples here :(
+2: 2 - no multiples here :(
+3: Fizz
+4: 4 - no multiples here :(
+5: Buzz
+6: Fizz
+7: 7 - no multiples here :(
+8: 8 - no multiples here :(
+9: Fizz
+10: Buzz
+11: 11 - no multiples here :(
+12: Fizz
+13: 13 - no multiples here :(
+14: 14 - no multiples here :(
+15: FizzBuzz
+16: 16 - no multiples here :(
+17: 17 - no multiples here :(
+18: Fizz
+19: 19 - no multiples here :(
+20: Buzz
+21: Fizz
+22: 22 - no multiples here :(
+23: 23 - no multiples here :(
+24: Fizz
+25: Buzz
+26: 26 - no multiples here :(
+27: Fizz
+28: 28 - no multiples here :(
+29: 29 - no multiples here :(
+30: FizzBuzz
+31: 31 - no multiples here :(
+32: 32 - no multiples here :(
+33: Fizz
+34: 34 - no multiples here :(
+35: Buzz
+36: Fizz
+37: 37 - no multiples here :(
+38: 38 - no multiples here :(
+39: Fizz
+40: Buzz
+41: 41 - no multiples here :(
+42: Fizz
+43: 43 - no multiples here :(
+44: 44 - no multiples here :(
+45: FizzBuzz
+46: 46 - no multiples here :(
+47: 47 - no multiples here :(
+48: Fizz
+49: 49 - no multiples here :(
+50: Buzz
+51: Fizz
+52: 52 - no multiples here :(
+53: 53 - no multiples here :(
+54: Fizz
+55: Buzz
+56: 56 - no multiples here :(
+57: Fizz
+58: 58 - no multiples here :(
+59: 59 - no multiples here :(
+60: FizzBuzz
+61: 61 - no multiples here :(
+62: 62 - no multiples here :(
+63: Fizz
+64: 64 - no multiples here :(
+65: Buzz
+66: Fizz
+67: 67 - no multiples here :(
+68: 68 - no multiples here :(
+69: Fizz
+70: Buzz
+71: 71 - no multiples here :(
+72: Fizz
+73: 73 - no multiples here :(
+74: 74 - no multiples here :(
+75: FizzBuzz
+76: 76 - no multiples here :(
+77: 77 - no multiples here :(
+78: Fizz
+79: 79 - no multiples here :(
+80: Buzz
+81: Fizz
+82: 82 - no multiples here :(
+83: 83 - no multiples here :(
+84: Fizz
+85: Buzz
+86: 86 - no multiples here :(
+87: Fizz
+88: 88 - no multiples here :(
+89: 89 - no multiples here :(
+90: FizzBuzz
+91: 91 - no multiples here :(
+92: 92 - no multiples here :(
+93: Fizz
+94: 94 - no multiples here :(
+95: Buzz
+96: Fizz
+97: 97 - no multiples here :(
+98: 98 - no multiples here :(
+99: Fizz
+100: Buzz
